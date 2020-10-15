@@ -1,0 +1,4 @@
+goto 2
+goto calc / 27 9
+calc + 3 5
+calc / 10 5

@@ -1,0 +1,6 @@
+goto 4
+replace 1 2
+remove 3
+goto 2
+goto calc x 3 5
+replace 6 10

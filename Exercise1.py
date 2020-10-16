@@ -7,6 +7,8 @@ def calc(op,a,b):
         return a - b
     elif op == '/':
         return a/b
+    elif op == '^':
+        return a^b
 
 with open('contents.txt', 'r') as f:
     content = f.read().splitlines()
